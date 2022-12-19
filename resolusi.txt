@@ -1,3 +1,5 @@
 Ricky Resolusi
   -Bisa memahami dan menggunakan react, next ataupun framework javascript lainnya
   -bisa menggunakan framework dari php
+  -Membuat sebuah aplikasi website sederhana
+  -berkolaborasi sama team dengan baik
